@@ -1,3 +1,4 @@
+# Exercise 5: Compute area of Circle
 radius_str = input("Enter the radius of the circle: ")
 try:
     radius = float(radius_str)

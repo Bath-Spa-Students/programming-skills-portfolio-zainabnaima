@@ -1,3 +1,4 @@
+# Exercise 4: Strings Concatination
 string1 = "Good Tidings,"
 string2 = "Everyone! "
 string3 = "GitHub is awesome!"
