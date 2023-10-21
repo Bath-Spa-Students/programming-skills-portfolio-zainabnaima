@@ -1,3 +1,4 @@
+# Exercise 3: Stripping Names
 name = "\tJohn Doe\n"
 print(name)
 

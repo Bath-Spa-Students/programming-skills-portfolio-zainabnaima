@@ -1,3 +1,4 @@
+# Exercise 5: USB Shopper
 usb_sticks_price = 6
 total_budget = 50
 usb_bought = total_budget // usb_sticks_price
