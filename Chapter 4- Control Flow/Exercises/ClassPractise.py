@@ -24,7 +24,7 @@ else:
     print("x is not greater than 5")
 
 
-# if-elif statement
+# if-elif-else statement
 # Get the user's income as input
 income = float(input('Enter your salary: '))
 # Check income range and provide a message
