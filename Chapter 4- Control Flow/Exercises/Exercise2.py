@@ -1,6 +1,4 @@
-# Define the variable alien_color and assign it a value.
-# Change this value to test different outcomes.
-
+# Exercise 2: Alien Colors
 # if block version
 alien_color = 'green'
 

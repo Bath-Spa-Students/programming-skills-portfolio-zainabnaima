@@ -1,4 +1,5 @@
-# Create a list of favorite fruits.
+# Exercise 5: Favorite Fruit
+
 favorite_fruits = ['mango', 'banana', 'kiwi']
 
 # Check if each fruit is in the list and print a message accordingly.

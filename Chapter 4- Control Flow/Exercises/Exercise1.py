@@ -1,4 +1,4 @@
-# Define the variable alien_color and assign it a value.
+# Exercise 1:  Alien Colors
 
 # Passed Version
 alien_color = 'green'

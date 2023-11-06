@@ -1,5 +1,4 @@
-# Define the variable age and set its value to the person's age. 
-# Change this value to determine the stage of life.
+# Exercise 4: Stages of Life
 
 age = 25
 
